@@ -4,7 +4,7 @@ let issLat = document.querySelector('#iss-lat')
 let issLon = document.querySelector('#iss-lon')
 let datetime = document.querySelector('#datetime')
 
-let update = 7000
+let update = 10000
 let maxFailedAttempts = 3;
 
 let issMarker
